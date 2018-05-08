@@ -1,0 +1,16 @@
+#home {
+    padding-top: 30px;
+}
+.navbar{
+    opacity: 0.9;
+    border-bottom: red 1px solid;
+}
+#background-img {
+    background-image: url(../img/home.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home {
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
